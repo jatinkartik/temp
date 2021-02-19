@@ -8,7 +8,7 @@ int main(){
     FILE *ptr;
     int j,k;
     char array[16][15];
-    ptr = fopen("myfile.txt","r");
+    ptr = fopen("screenshot (85).txt","r");
     char *ptr1;
 
    ptr1 = (char *)malloc(10*sizeof(char)); 
@@ -16,7 +16,7 @@ int main(){
     for( j = 0; j>=0;j++){
    ptr1[j] = fgetc(ptr);
    if(ptr1[j]==EOF){
-       break;
+     break;
    }
     }
     for(int i = j; i>=0; i--){
@@ -24,8 +24,6 @@ int main(){
       ptr1--;
     }
   
- cout<<"the character i read from file is  "<<array<<endl;
 fclose(ptr);
-cout<<"the string i read from file is  "<<array<<endl;
 return 0;
 }
