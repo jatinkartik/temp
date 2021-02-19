@@ -1,15 +1,22 @@
 #include<stdio.h>
+#include<math.h>
+#define print printf
+#include "cpp3.cpp"
+#define SQUARE(a,c) pow(a,c) // square macros defines
 
 int main(){
 	int a;
-	printf("enter the value ");
+	int i;
+	int kk =8;
+	print("enter the value ");
 	scanf("%d",&a);
-	for(int i = 2; i<a; i ++){
+	for( i = 2; i<a; i ++){
 		if( a%i == 0 && a!=i ){
-			printf("not prime ");
+			print("not prime %llllld ",SQUARE(a,kk));
+			
 			return 0;
 		}
 
 	}
-	printf("prime ");
+	print("prime %d ",main2());
 }

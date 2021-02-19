@@ -1,8 +1,9 @@
 #include<stdio.h>
 
-int main(){
+int main2(){
 	int n;
 	int k=0;
+	int sum=0;
 	printf("enter the value ");
 	scanf("%d",&n);
 	for (int j = 1; j < n; j++ ){
@@ -14,6 +15,7 @@ int main(){
 	}
 		if(c==2){
 		printf("%d\t",j);
+		sum += j;
 		k++;
 		
 }
@@ -21,5 +23,5 @@ int main(){
 	
 	}
 	printf("\n the total prime no till value entered by user is %d",k);
-		
+return sum;		
 }
