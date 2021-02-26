@@ -1,5 +1,1 @@
-Date :-  13:12:48 Time :- Feb 19 2021 thanks Dr surbhi tyagi for purchasing suit patiala  at price 1200 from  our outlet mohan gallery for more information contact 9639604080
-
-
-
- 
+Thanks {{name}} for purchasing {{item}} from our outlet {{outlet}}. Please visit our outlet {{outlet}} for any kind of problems. We plan to server you again soon.

@@ -67,6 +67,5 @@ int main()
     fprintf(ptr2, "%s", newStr);
     fclose(ptr);
     fclose(ptr2);
-
     return 0;
 }

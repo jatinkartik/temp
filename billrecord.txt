@@ -13,3 +13,157 @@ Date :-  13:12:48
 
 
 
+Date :-  20:14:24 
+ Time :- Feb 22 2021 
+ customer name - jatin 
+ item - fan  
+ price - 5555 
+
+
+
+
+
+
+
+
+
+Date :-  20:34:13 
+ Time :- Feb 22 2021 
+ customer name - jatin 
+ item - jatin  
+ price - 0 
+
+
+
+
+
+
+
+
+
+Date :-  14:27:56 
+ Time :- Feb 25 2021 
+ customer name - jatin 
+ item - tyagi  
+ price - 0 
+
+
+
+
+
+
+
+
+
+Date :-  14:28:24 
+ Time :- Feb 25 2021 
+ customer name - jatin 
+ item - fan  
+ price - 5685 
+
+
+
+
+
+
+
+
+
+Date :-  14:31:25 
+ Time :- Feb 25 2021 
+ customer name - jatin 
+ item - kartik  
+ price - 0 
+
+
+
+
+
+
+
+
+
+Date :-  14:31:37 
+ Time :- Feb 25 2021 
+ customer name - jatin 
+ item - fan  
+ price - 55 
+
+
+
+
+
+
+
+
+
+Date :-  14:31:49 
+ Time :- Feb 25 2021 
+ customer name - jatin 
+ item - tyagi  
+ price - 44 
+
+
+
+
+
+
+
+
+
+Date :-  14:32:04 
+ Time :- Feb 25 2021 
+ customer name - jatin 
+ item - kartik  
+ price - 0 
+
+
+
+
+
+
+
+
+
+Date :-  14:35:00 
+ Time :- Feb 25 2021 
+ customer name - € 
+ item - cd  
+ price - 0 
+
+
+
+
+
+
+
+
+
+Date :-  14:35:19 
+ Time :- Feb 25 2021 
+ customer name - € 
+ item - cd  
+ price - 0 
+
+
+
+
+
+
+
+
+
+Date :-  14:35:30 
+ Time :- Feb 25 2021 
+ customer name - € 
+ item - cd  
+ price - 0 
+
+
+
+
+
+
+
+
+

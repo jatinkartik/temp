@@ -1,17 +1,18 @@
 #include<bits/stdc++.h>
+#include<string.h>
 using namespace std;
 
 int main(){
  FILE *ptr,*ptr1;
  ptr = fopen("bill.txt","w");
  ptr1 = fopen("billrecord.txt","a+");
- char name[25],item[50];
+ char * name,item;
  int price;
  cout<<"Enter customer name :";
-    gets(name);
+char * gets(char * name);
  fflush(stdin);
  cout<<"Enter the item name customer purchase :";
-    gets(item);
+ cin>>item;
  fflush(stdin);
  cout<<"Enter the item price customer purchase :";
  cin>>price;
