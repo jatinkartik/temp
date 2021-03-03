@@ -1,14 +1,26 @@
-#include<stdio.h>
+#include<iostream>
+#include<cstring>
+using namespace std;
 
-int main(int argc, char const *argv[])
+
+int main(int argc, char *argv[])
 {
-    int i = 1;
-  printf("the value of argument is %d ",argc);
-  for(int j =1 ; j <argc; j++){
+  int no1,no2;
+  char * copy;
+  copy = argv[1];
+ no1 = atoi(argv[2]);
+ no2 = atoi(argv[3]);
 
-  printf("\n");
-  printf("this argument value of %d is %s ",i,argv[j]);
-  }
+if(strcmp(copy,"add")==0)
+  cout<<no1+no2<<endl;
+if(strcmp(copy,"sub")==0)
+  cout<<no1-no2<<endl;
+if(strcmp(copy,"rem")==0)
+  cout<<no1%no2<<endl;
+if(strcmp(copy,"mul")==0)
+  cout<<no1*no2<<endl;
+if(strcmp(copy,"div")==0)
+  cout<<no1/no2<<endl;
   printf("\n");
     return 0;
 }
