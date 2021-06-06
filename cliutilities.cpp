@@ -21,6 +21,6 @@ if(strcmp(copy,"mul")==0)
   cout<<no1*no2<<endl;
 if(strcmp(copy,"div")==0)
   cout<<no1/no2<<endl;
-  printf("\n");
+  printf("\a");
     return 0;
 }

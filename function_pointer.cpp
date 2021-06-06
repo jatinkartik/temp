@@ -25,6 +25,6 @@ int main(){
     int d = (*ptr)(h,k);
  
     cout<<"the value of d is "<<(int)(d*PI);
-cout<<endl;
+cout<<"\a"<<endl;
 return 0;
 }
